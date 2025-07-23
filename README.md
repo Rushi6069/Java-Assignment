@@ -14,7 +14,7 @@ This is a simple Spring Boot application that exposes RESTful APIs to manage emp
 - Swagger/OpenAPI (springdoc-openapi)
 
 
-### 📋 Prerequisites
+### Prerequisites
 
 - Java 17+
 - Maven 3+
@@ -22,7 +22,7 @@ This is a simple Spring Boot application that exposes RESTful APIs to manage emp
 - IDE (e.g., IntelliJ IDEA, Eclipse)
 
 
-### ⚙️ Setup Instructions
+### Setup Instructions
 
 1. **Clone the Repository:**
 
