@@ -1,6 +1,6 @@
 # Employee Management REST API
 
-This is a simple Spring Boot application that exposes RESTful APIs to manage employee records. It uses PostgreSQL for data persistence and includes Swagger documentation, validation, and testing.
+This is a simple Spring Boot application that exposes RESTful APIs to manage employee records. It uses PostgreSQL for data persistence and includes Swagger documentation, validation.
 
 ## Features
 
